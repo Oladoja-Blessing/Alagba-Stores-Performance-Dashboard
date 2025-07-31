@@ -1,4 +1,5 @@
-# Alagba Stores Performance Dashboard
+# Alagba Stores Performance Dashboard 
+![Dashboard Preview](./executive-summary-final.png)
 
 This Power BI project provides an executive summary of store performance, featuring key business metrics such as:
 
